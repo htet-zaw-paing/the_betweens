@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://htet-zaw-paing.github.io/the_betweens/sitemap.xml
